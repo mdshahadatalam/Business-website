@@ -1,0 +1,82 @@
+*{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+.logo-img{
+    width: 70px;
+    
+}
+
+.service{
+    font-size: 9px;
+    font-weight: bold;
+    color:#1f346d;
+}
+.first-section:hover{
+ background-color:#d6d0d0 ;
+ cursor: pointer;
+}
+.nav-link{
+    font-weight: bold;
+    color: black;
+    margin-right: 5px;
+}
+
+.main-section{
+    background-color: #f1f1f3;
+    cursor: pointer;
+}
+.main-section:hover{
+    background-color:#d5d5da ;
+}
+.digital{
+ text-transform: uppercase;
+ font-weight: bold;
+ color: #1f346d;
+ letter-spacing: 1px;
+}
+h1{
+    color: #1f346d;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.Future{
+    text-transform: lowercase;
+    color: tomato;
+    font-style:italic;
+    font-weight: bolder;
+}
+.letter{
+    font-weight: bolder;
+}
+.our-services{
+    background-color: #f75a53;
+    color: white;
+    font-size: 9px;
+    padding: 8px;
+    width: 150px;
+    border: none;
+}
+.man-logo:hover{
+  border: 2px solid #5e5870;
+}
+.our-company{
+    text-decoration: none;
+    color: tomato;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.footer{
+    padding-top: 4rem;
+    
+}
+.priorities{
+    font-weight: bolder;
+    cursor: pointer;
+}
+.f-letter{
+    padding-top: 2rem;
+    font-weight: bolder;
+    cursor: pointer;
+}
